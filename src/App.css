@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+/*theme styles*/
+header {
+  padding: 50px;
+  position: relative;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+header button {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+.dark-theme {
+  background-color: #333333;
+  color: white;
+}
+
+.light-theme {
+  background-color: white;
+  color: #333333;
+}
