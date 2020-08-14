@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Light🌞/ Dark🌜 Mode React Boilerplate</h1>
-    <p> Light🌞/ Dark🌜 Mode React Boilerplate using the **Context Api**</p>
+    <p> Light🌞/ Dark🌜 Mode React Boilerplate using the Context Api</p>
     <img align="center" src="./demo/demo.gif" alt="Material Bread logo">
 </div>
 
