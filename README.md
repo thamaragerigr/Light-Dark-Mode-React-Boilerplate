@@ -1,10 +1,11 @@
-# Light🌞/ Dark🌜 Mode React Boilerplate
+<div align="center">
 
-Light🌞/ Dark🌜 Mode React Boilerplate using the **Context Api**
+<h1>Light🌞/ Dark🌜 Mode React Boilerplate</h1>
+    <p> Light🌞/ Dark🌜 Mode React Boilerplate using the **Context Api**</p>
+    <img align="center" src="./demo/demo.gif" alt="Material Bread logo">
+</div>
 
-![Light to Dark mode](./demo/demo.gif)
-
---- 
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
