@@ -1,3 +1,11 @@
+# Light🌞/ Dark🌜 Mode React Boilerplate
+
+Light🌞/ Dark🌜 Mode React Boilerplate using the **Context Api**
+
+![Light to Dark mode](./demo/demo.gif)
+
+--- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
